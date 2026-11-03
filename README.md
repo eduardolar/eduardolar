@@ -14,7 +14,7 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/eduardolar/SiestaDescanso"><img src="assets/siestadescanso.svg" alt="Siesta y Descanso: un pedido avanza por los cuatro pasos"></a>
+      <a href="https://github.com/eduardolar/SiestaDescanso"><img src="assets/siestadescanso.gif" alt="Siesta y Descanso en funcionamiento: nueva venta, catálogo, stock y proveedores"></a>
       <h3><a href="https://github.com/eduardolar/SiestaDescanso">Siesta y Descanso</a></h3>
       Gestor de stock y pedidos para una tienda de muebles: sigue cada venta desde que se encarga hasta que se entrega.<br><br>
       <code>C#</code> <code>.NET 10</code> <code>WPF</code> <code>EF Core</code> <code>SQLite</code> · ~300 pruebas
@@ -55,7 +55,7 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
       <code>Flutter</code> <code>Supabase</code> <code>PostgreSQL</code> <code>RLS</code> · más de 350 pruebas
     </td>
     <td width="50%" valign="top">
-      <img src="assets/tempogym.svg" alt="Tempo Gym: reserva de clases y lista de espera">
+      <img src="assets/tempogym.gif" alt="Tempo Gym en funcionamiento: agenda semanal y ficha de clase">
       <h3>Tempo Gym</h3>
       App de clases y reservas para gimnasios: calendario semanal, reserva de plaza, lista de espera y gestión de aulas, aforos y caja. Un mismo código para varios gimnasios.<br><br>
       <code>Flutter</code> <code>Supabase</code> <code>Docker</code> · Android, web y Windows
