@@ -28,7 +28,7 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/eduardolar/ConcesionarioSemaforos"><img src="assets/concesionario.svg" alt="ConcesionarioSemaforos"></a>
+      <a href="https://github.com/eduardolar/ConcesionarioSemaforos"><img src="assets/concesionario.gif" alt="Ejecución real de ConcesionarioSemaforos: los clientes cogen y sueltan vehículos"></a>
       <h3><a href="https://github.com/eduardolar/ConcesionarioSemaforos">ConcesionarioSemaforos</a></h3>
       Concurrencia en Java: varios clientes, cada uno en su hilo, se reparten unos pocos vehículos con un semáforo.<br><br>
       <code>Java</code> <code>Semaphore</code> <code>synchronized</code>
