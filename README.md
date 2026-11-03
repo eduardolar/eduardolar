@@ -61,6 +61,15 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
       <code>Flutter</code> <code>Supabase</code> <code>Docker</code> · Android, web y Windows
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/restaurante.gif" alt="Restaurante Bravo en funcionamiento: elegir restaurante, carta, carrito y entrega">
+      <h3>Restaurante Bravo</h3>
+      Comandas, reservas y pagos para varios restaurantes: carta por sucursal, carrito con alergias, entrega o recogida, cocina y panel de administración.<br><br>
+      <code>FastAPI</code> <code>MongoDB</code> <code>Flutter</code> <code>Stripe</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## 🛠️ Tecnologías
