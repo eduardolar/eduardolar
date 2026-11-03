@@ -37,7 +37,7 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
       <a href="https://github.com/eduardolar/LeagueOfLegendsApp"><img src="assets/lol.gif" alt="League of Legends · Campeones en funcionamiento: rol, ranking y ficha con build"></a>
       <h3><a href="https://github.com/eduardolar/LeagueOfLegendsApp">League of Legends · Campeones</a></h3>
       Explorador de campeones por rol, con ranking por winrate y ficha completa: build por posición, runas, objetos y orden de habilidades.<br><br>
-      <code>Angular 17</code> <code>Angular Material</code> <code>RxJS</code> <code>Jasmine</code>
+      <code>Angular 17</code> <code>Angular Material</code> <code>RxJS</code> <code>Jasmine</code> · <a href="https://lolcampeones.netlify.app">▶ demo en vivo</a>
     </td>
   </tr>
 </table>
