@@ -34,13 +34,19 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
       <code>Java</code> <code>Semaphore</code> <code>synchronized</code>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Dónde he trabajado</h3>
-      <b>Zaitec</b> (2026, remoto): SaaS multi-tenant con FastAPI y MongoDB, app en Flutter, Stripe y Docker en Render.<br><br>
-      <b>Copermática</b> (2023): Angular y TypeScript, C# con ASP.NET Web API y Entity Framework sobre SQL Server, Scrum y pull requests con revisión de código.<br><br>
-      <b>Freelance</b> (2026): app de reservas para un gimnasio, en producción. Flutter y Supabase con RLS, más de 350 pruebas (código del cliente).
+      <a href="https://github.com/eduardolar/LeagueOfLegendsApp"><img src="assets/lol.gif" alt="League of Legends · Campeones en funcionamiento: rol, ranking y ficha con build"></a>
+      <h3><a href="https://github.com/eduardolar/LeagueOfLegendsApp">League of Legends · Campeones</a></h3>
+      Explorador de campeones por rol, con ranking por winrate y ficha completa: build por posición, runas, objetos y orden de habilidades.<br><br>
+      <code>Angular 17</code> <code>Angular Material</code> <code>RxJS</code> <code>Jasmine</code>
     </td>
   </tr>
 </table>
+
+## 💼 Dónde he trabajado
+
+- **Zaitec** (2026, remoto): SaaS multi-tenant con FastAPI y MongoDB, app en Flutter, Stripe y Docker en Render.
+- **Copermática** (2023): Angular y TypeScript, C# con ASP.NET Web API y Entity Framework sobre SQL Server, Scrum y pull requests con revisión de código.
+- **Freelance** (2026): AgendaFit, app para un gimnasio en producción. Flutter y Supabase con RLS, más de 350 pruebas.
 
 ## 🔒 Proyectos con código privado
 
