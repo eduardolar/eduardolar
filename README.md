@@ -42,6 +42,27 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
   </tr>
 </table>
 
+## 🔒 Proyectos con código privado
+
+<sub>El código no es público. Las demos usan datos de ejemplo.</sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/agendafit.gif" alt="AgendaFit en funcionamiento: quién está libre, calendario del equipo y turnos">
+      <h3>AgendaFit</h3>
+      App para que un gimnasio vea qué instructores están libres, reparta turnos y ocupe huecos con clientes. En producción en un gimnasio.<br><br>
+      <code>Flutter</code> <code>Supabase</code> <code>PostgreSQL</code> <code>RLS</code> · más de 350 pruebas
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/tempogym.svg" alt="Tempo Gym: reserva de clases y lista de espera">
+      <h3>Tempo Gym</h3>
+      App de clases y reservas para gimnasios: calendario semanal, reserva de plaza, lista de espera y gestión de aulas, aforos y caja. Un mismo código para varios gimnasios.<br><br>
+      <code>Flutter</code> <code>Supabase</code> <code>Docker</code> · Android, web y Windows
+    </td>
+  </tr>
+</table>
+
 ## 🛠️ Tecnologías
 
 <p align="center">
