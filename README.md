@@ -1,30 +1,58 @@
-<h1 align="center">Hola, soy Eduardo 👋</h1>
-<p align="center"><b>Desarrollador Full Stack Junior</b> · .NET · Angular · TypeScript · Python · Flutter</p>
+<p align="center">
+  <img src="assets/banner.svg" alt="Eduardo Lara Navarro, desarrollador full stack junior" width="100%">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-lara-navarro-007138100/"><img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Lara%20Navarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Ciudad%20Real-España-c60b1e?style=for-the-badge" alt="Ciudad Real, España">
   <img src="https://img.shields.io/badge/Disponible-remoto%20o%20h%C3%ADbrido-2ea44f?style=for-the-badge" alt="Disponible en remoto o híbrido">
 </p>
 
+Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y FastAPI, el front-end con Angular y apps móviles con Flutter. Me gusta que lo que construyo se use de verdad y tenga pruebas detrás.
+
+## 🚀 Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/eduardolar/SiestaDescanso"><img src="https://raw.githubusercontent.com/eduardolar/SiestaDescanso/main/docs/panel.png" alt="Panel de Siesta y Descanso"></a>
+      <h3><a href="https://github.com/eduardolar/SiestaDescanso">Siesta y Descanso</a></h3>
+      Gestor de stock y pedidos para una tienda de muebles: sigue cada venta desde que se encarga hasta que se entrega.<br><br>
+      <code>C#</code> <code>.NET 10</code> <code>WPF</code> <code>EF Core</code> <code>SQLite</code> · ~300 pruebas
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/eduardolar/StickerApp"><img src="https://raw.githubusercontent.com/eduardolar/StickerApp/main/docs/banner.png" alt="StickerApp"></a>
+      <h3><a href="https://github.com/eduardolar/StickerApp">StickerApp</a></h3>
+      App para buscar, guardar y compartir stickers animados, con modo oscuro y funciones nativas de Android.<br><br>
+      <code>Angular 22</code> <code>signals</code> <code>Capacitor 8</code> <code>Vitest</code> · 68 pruebas
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/eduardolar/ConcesionarioSemaforos"><img src="assets/concesionario.svg" alt="ConcesionarioSemaforos"></a>
+      <h3><a href="https://github.com/eduardolar/ConcesionarioSemaforos">ConcesionarioSemaforos</a></h3>
+      Concurrencia en Java: varios clientes, cada uno en su hilo, se reparten unos pocos vehículos con un semáforo.<br><br>
+      <code>Java</code> <code>Semaphore</code> <code>synchronized</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Dónde he trabajado</h3>
+      <b>Zaitec</b> (2026, remoto): SaaS multi-tenant con FastAPI y MongoDB, app en Flutter, Stripe y Docker en Render.<br><br>
+      <b>Copermática</b> (2023): Angular y TypeScript, C# con ASP.NET Web API y Entity Framework sobre SQL Server, Scrum y pull requests con revisión de código.<br><br>
+      <b>Freelance</b> (2026): app de reservas para un gimnasio, en producción. Flutter y Supabase con RLS, más de 350 pruebas (código del cliente).
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tecnologías
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,py,fastapi,flutter,dart,postgres,mongodb,sqlite,docker,git,java&perline=7" alt="Tecnologías">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,py,fastapi,flutter,dart,postgres,mongodb,sqlite,docker,git,java&perline=7" alt="C#, .NET, Angular, TypeScript, Python, FastAPI, Flutter, Dart, PostgreSQL, MongoDB, SQLite, Docker, Git y Java">
 </p>
 
-## 💼 Dónde he trabajado
+## 🐍 Mi actividad
 
-- **Zaitec** (2026, prácticas, remoto): SaaS multi-tenant con FastAPI y MongoDB, app en Flutter, pagos con Stripe y despliegue en Render con Docker.
-- **Copermática** (2023): Angular y TypeScript en el front-end, C# con ASP.NET Web API y Entity Framework sobre SQL Server, Scrum con Azure DevOps y pull requests con revisión de código.
-- **Freelance** (2026): app de reservas para un gimnasio, en producción. Flutter y Supabase (PostgreSQL con RLS y triggers), más de 350 pruebas. El código es del cliente, así que no está aquí.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardolar/eduardolar/output/serpiente-oscura.svg">
+  <img src="https://raw.githubusercontent.com/eduardolar/eduardolar/output/serpiente.svg" alt="Serpiente que recorre mi calendario de contribuciones">
+</picture>
 
-## 🚀 Proyectos
-
-| Proyecto | Qué es | Tecnologías |
-|---|---|---|
-| [SiestaDescanso](https://github.com/eduardolar/SiestaDescanso) | Gestor de stock y pedidos para una tienda de muebles, con unas 300 pruebas | C# · .NET 10 · WPF · EF Core · SQLite |
-| [StickerApp](https://github.com/eduardolar/StickerApp) | App para buscar y compartir stickers animados | Angular 22 · signals · Capacitor 8 · Vitest |
-| [ConcesionarioSemaforos](https://github.com/eduardolar/ConcesionarioSemaforos) | Ejercicio de concurrencia con hilos y semáforos | Java |
-
-## 🎓 Formación
-
-Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (MEDAC) · Máster en Big Data Engineering (Davante) · Grado en Psicología
+<sub>🎓 Técnico Superior en DAM (MEDAC) · Máster en Big Data Engineering (Davante) · Grado en Psicología · 📍 Ciudad Real, España</sub>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Eduardo Lara Navarro, desarrollador full stack junior">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="acento" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .nombre { font-size: 58px; font-weight: 800; fill: #f8fafc; }
+      .rol { font-size: 28px; font-weight: 600; fill: url(#acento); }
+      .stack { font-size: 20px; fill: #cbd5e1; }
+      .cursor { fill: #a78bfa; animation: parpadeo 1s steps(1) infinite; }
+      .burbuja { animation: flotar 7s ease-in-out infinite; }
+      .burbuja.b2 { animation-duration: 9s; animation-delay: -2s; }
+      .burbuja.b3 { animation-duration: 11s; animation-delay: -4s; }
+      @keyframes aparecer { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes parpadeo { 50% { opacity: 0; } }
+      @keyframes flotar { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#fondo)"/>
+  <g opacity="0.35">
+    <circle class="burbuja" cx="1030" cy="80" r="70" fill="#6366f1"/>
+    <circle class="burbuja b2" cx="1120" cy="210" r="45" fill="#3b82f6"/>
+    <circle class="burbuja b3" cx="930" cy="230" r="30" fill="#a78bfa"/>
+  </g>
+  <g class="sans" fill="#94a3b8" font-size="22" opacity="0.55">
+    <text x="900" y="150">&lt;/&gt;</text>
+    <text x="1060" y="160">{ }</text>
+  </g>
+  <text class="sans nombre" x="70" y="125">Eduardo Lara Navarro</text>
+  <text class="sans rol" x="72" y="175">Desarrollador Full Stack Junior</text>
+  <rect class="cursor" x="502" y="152" width="4" height="30"/>
+  <text class="sans stack" x="72" y="225">C# · .NET · Angular · TypeScript · Python · FastAPI · Flutter · SQL</text>
+  <text class="sans stack" x="72" y="258" font-size="18" fill="#94a3b8">📍 Ciudad Real, España</text>
+</svg>
