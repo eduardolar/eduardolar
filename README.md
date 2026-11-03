@@ -14,13 +14,13 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/eduardolar/SiestaDescanso"><img src="https://raw.githubusercontent.com/eduardolar/SiestaDescanso/main/docs/panel.png" alt="Panel de Siesta y Descanso"></a>
+      <a href="https://github.com/eduardolar/SiestaDescanso"><img src="assets/siestadescanso.svg" alt="Siesta y Descanso: un pedido avanza por los cuatro pasos"></a>
       <h3><a href="https://github.com/eduardolar/SiestaDescanso">Siesta y Descanso</a></h3>
       Gestor de stock y pedidos para una tienda de muebles: sigue cada venta desde que se encarga hasta que se entrega.<br><br>
       <code>C#</code> <code>.NET 10</code> <code>WPF</code> <code>EF Core</code> <code>SQLite</code> · ~300 pruebas
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/eduardolar/StickerApp"><img src="https://raw.githubusercontent.com/eduardolar/StickerApp/main/docs/banner.png" alt="StickerApp"></a>
+      <a href="https://github.com/eduardolar/StickerApp"><img src="assets/stickerapp.svg" alt="StickerApp: buscar, guardar en favoritos y compartir"></a>
       <h3><a href="https://github.com/eduardolar/StickerApp">StickerApp</a></h3>
       App para buscar, guardar y compartir stickers animados, con modo oscuro y funciones nativas de Android.<br><br>
       <code>Angular 22</code> <code>signals</code> <code>Capacitor 8</code> <code>Vitest</code> · 68 pruebas

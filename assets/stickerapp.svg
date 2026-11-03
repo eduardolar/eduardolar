@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-label="StickerApp: buscar, ver stickers, guardar en favoritos y compartir">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0b1e"/>
+      <stop offset="100%" stop-color="#2a1b5e"/>
+    </linearGradient>
+    <linearGradient id="marca" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <clipPath id="pantalla"><rect x="372" y="44" width="256" height="472" rx="26"/></clipPath>
+    <style>
+      .t { font-family: 'Segoe UI', Arial, sans-serif; }
+      .escribe { animation: escribir 9s steps(4) infinite; }
+      @keyframes escribir { 0% { width: 0; } 12%, 100% { width: 46px; } }
+      .tile { opacity: 1; animation: aparecer 9s infinite; transform-box: fill-box; transform-origin: center; }
+      .d1 { animation-delay: 0s; } .d2 { animation-delay: .15s; } .d3 { animation-delay: .3s; }
+      .d4 { animation-delay: .45s; } .d5 { animation-delay: .6s; } .d6 { animation-delay: .75s; }
+      @keyframes aparecer { 0%, 14% { opacity: 0; transform: scale(.6); } 20%, 100% { opacity: 1; transform: scale(1); } }
+      .rebote { animation: rebotar 1.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes rebotar { 0%, 100% { transform: rotate(-6deg); } 50% { transform: rotate(6deg) scale(1.06); } }
+      .corazon { fill: #475569; animation: favorito 9s infinite; }
+      @keyframes favorito { 0%, 45% { fill: #475569; } 50%, 100% { fill: #f43f5e; } }
+      .pulso { opacity: 0; animation: pulsar 9s infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes pulsar { 0%, 45% { opacity: 0; transform: scale(.5); } 50% { opacity: .9; transform: scale(1.4); } 58%, 100% { opacity: 0; transform: scale(1.8); } }
+      .compartir { opacity: 0; animation: hoja 9s infinite; }
+      @keyframes hoja { 0%, 64% { opacity: 0; transform: translateY(40px); } 70%, 92% { opacity: 1; transform: translateY(0); } 97%, 100% { opacity: 0; transform: translateY(40px); } }
+      .dedo { animation: tocar 9s infinite; }
+      @keyframes tocar { 0%, 40% { transform: translate(120px, 120px); opacity: 0; } 44% { opacity: 1; } 48%, 56% { transform: translate(0, 0); opacity: 1; } 62%, 100% { transform: translate(60px, 80px); opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="560" rx="18" fill="url(#fondo)"/>
+  <g opacity="0.25">
+    <rect x="70" y="70" width="90" height="90" rx="22" fill="#7c3aed" transform="rotate(-12 115 115)"/>
+    <rect x="840" y="380" width="110" height="110" rx="26" fill="#6366f1" transform="rotate(14 895 435)"/>
+  </g>
+
+  <!-- texto lateral -->
+  <g class="t">
+    <text x="70" y="250" font-size="40" font-weight="800" fill="#f5f3ff">StickerApp</text>
+    <text x="70" y="290" font-size="18" fill="#c4b5fd">1. Busca mientras escribes</text>
+    <text x="70" y="318" font-size="18" fill="#c4b5fd">2. Guarda tus favoritos</text>
+    <text x="70" y="346" font-size="18" fill="#c4b5fd">3. Compártelos en tus chats</text>
+    <text x="70" y="400" font-size="15" fill="#a5b4fc" opacity="0.8">Angular 22 · Capacitor 8 · Android</text>
+  </g>
+
+  <!-- móvil -->
+  <rect x="360" y="30" width="280" height="500" rx="38" fill="#111827" stroke="#4c1d95" stroke-width="3"/>
+  <g clip-path="url(#pantalla)">
+    <rect x="372" y="44" width="256" height="472" fill="#0f0f23"/>
+    <text class="t" x="390" y="82" font-size="18" font-weight="800" fill="#f5f3ff">StickerApp</text>
+    <!-- buscador -->
+    <rect x="388" y="98" width="224" height="36" rx="18" fill="#1e1b4b" stroke="#6d28d9"/>
+    <text class="t" x="404" y="122" font-size="14" fill="#a78bfa">🔍</text>
+    <g>
+      <clipPath id="escrito"><rect class="escribe" x="428" y="104" width="46" height="24"/></clipPath>
+      <text class="t" x="428" y="122" font-size="15" fill="#ede9fe" clip-path="url(#escrito)">gato</text>
+    </g>
+
+    <!-- rejilla de stickers -->
+    <g class="t" font-size="40" text-anchor="middle">
+      <g class="tile d1"><rect x="388" y="150" width="104" height="104" rx="16" fill="#312e81"/><text class="rebote" x="440" y="217">😺</text></g>
+      <g class="tile d2"><rect x="508" y="150" width="104" height="104" rx="16" fill="#3b0764"/><text class="rebote" x="560" y="217">🐱</text></g>
+      <g class="tile d3"><rect x="388" y="270" width="104" height="104" rx="16" fill="#1e3a8a"/><text class="rebote" x="440" y="337">😹</text></g>
+      <g class="tile d4"><rect x="508" y="270" width="104" height="104" rx="16" fill="#4c1d95"/><text class="rebote" x="560" y="337">😻</text></g>
+      <g class="tile d5"><rect x="388" y="390" width="104" height="104" rx="16" fill="#581c87"/><text class="rebote" x="440" y="457">🙀</text></g>
+      <g class="tile d6"><rect x="508" y="390" width="104" height="104" rx="16" fill="#312e81"/><text class="rebote" x="560" y="457">😸</text></g>
+    </g>
+
+    <!-- favorito en el segundo sticker -->
+    <circle class="pulso" cx="596" cy="166" r="12" fill="#f43f5e"/>
+    <path class="corazon" d="M596 176 l-9 -9 a5.5 5.5 0 0 1 9 -6 a5.5 5.5 0 0 1 9 6 z"/>
+
+    <!-- hoja de compartir -->
+    <g class="compartir">
+      <rect x="372" y="406" width="256" height="110" rx="18" fill="#f5f3ff"/>
+      <text class="t" x="392" y="436" font-size="14" font-weight="700" fill="#1e1b4b">Compartir sticker</text>
+      <g class="t" font-size="12" fill="#334155" text-anchor="middle">
+        <circle cx="414" cy="470" r="17" fill="#22c55e"/><text x="414" y="502">Chats</text>
+        <circle cx="476" cy="470" r="17" fill="#a78bfa"/><text x="476" y="502">Guardar</text>
+        <circle cx="538" cy="470" r="17" fill="#60a5fa"/><text x="538" y="502">Copiar</text>
+        <circle cx="598" cy="470" r="17" fill="#f59e0b"/><text x="598" y="502">Más</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- dedo que toca el corazón -->
+  <g class="dedo"><circle cx="600" cy="172" r="15" fill="#fde68a" fill-opacity="0.85" stroke="#f59e0b" stroke-width="2"/></g>
+</svg>
