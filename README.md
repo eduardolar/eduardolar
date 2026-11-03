@@ -19,14 +19,6 @@
 
 ## 🚀 Proyectos
 
-<p align="center">
-  <a href="https://github.com/eduardolar/SiestaDescanso"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardolar&repo=SiestaDescanso&theme=default&hide_border=true" alt="SiestaDescanso"></a>
-  <a href="https://github.com/eduardolar/StickerApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardolar&repo=StickerApp&theme=default&hide_border=true" alt="StickerApp"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/eduardolar/ConcesionarioSemaforos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardolar&repo=ConcesionarioSemaforos&theme=default&hide_border=true" alt="ConcesionarioSemaforos"></a>
-</p>
-
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
 | [SiestaDescanso](https://github.com/eduardolar/SiestaDescanso) | Gestor de stock y pedidos para una tienda de muebles, con unas 300 pruebas | C# · .NET 10 · WPF · EF Core · SQLite |
