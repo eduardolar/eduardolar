@@ -20,7 +20,7 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
       <code>C#</code> <code>.NET 10</code> <code>WPF</code> <code>EF Core</code> <code>SQLite</code> · ~300 pruebas
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/eduardolar/StickerApp"><img src="assets/stickerapp.svg" alt="StickerApp: buscar, guardar en favoritos y compartir"></a>
+      <a href="https://github.com/eduardolar/StickerApp"><img src="assets/stickerapp.gif" alt="StickerApp en funcionamiento: tendencias, búsqueda en vivo y favoritos"></a>
       <h3><a href="https://github.com/eduardolar/StickerApp">StickerApp</a></h3>
       App para buscar, guardar y compartir stickers animados, con modo oscuro y funciones nativas de Android.<br><br>
       <code>Angular 22</code> <code>signals</code> <code>Capacitor 8</code> <code>Vitest</code> · 68 pruebas
