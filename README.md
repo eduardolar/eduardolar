@@ -17,7 +17,7 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
       <a href="https://github.com/eduardolar/RadarEmpleo"><img src="assets/radarempleo.png" alt="Pantalla Inicio de RadarEmpleo: lo que toca hoy, los próximos días y el resumen de la semana"></a>
       <h3><a href="https://github.com/eduardolar/RadarEmpleo">RadarEmpleo</a></h3>
       La app con la que llevo mi búsqueda de empleo: tablero de candidaturas, recordatorios con lo que toca hoy y estadísticas.<br><br>
-      <code>C#</code> <code>ASP.NET Core</code> <code>.NET 10</code> <code>EF Core</code> <code>Angular 22</code> · ~2.100 pruebas
+      <code>C#</code> <code>ASP.NET Core</code> <code>.NET 10</code> <code>EF Core</code> <code>Angular 22</code> · ~2.100 pruebas · <a href="https://eduardolar.github.io/RadarEmpleo-web/">▶ presentación</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/eduardolar/SiestaDescanso"><img src="assets/siestadescanso.gif" alt="Siesta y Descanso en funcionamiento: nueva venta, catálogo, stock y proveedores"></a>
