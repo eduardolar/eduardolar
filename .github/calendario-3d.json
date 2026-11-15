@@ -1,0 +1,26 @@
+[
+  {
+    "type": "normal",
+    "fileName": "calendario-claro.svg",
+    "backgroundColor": "#f9fafb",
+    "foregroundColor": "#111827",
+    "strongColor": "#4d7c0f",
+    "weakColor": "#6b7280",
+    "radarColor": "#4d7c0f",
+    "growingAnimation": true,
+    "contribColors": ["#e5e7eb", "#d9f99d", "#a3e635", "#65a30d", "#3f6212"],
+    "l10n": { "commit": "Commits", "repo": "Repositorios", "review": "Revisiones", "pullreq": "Pull requests", "issue": "Issues", "contrib": "contribuciones" }
+  },
+  {
+    "type": "normal",
+    "fileName": "calendario-oscuro.svg",
+    "backgroundColor": "#0b111e",
+    "foregroundColor": "#f3f4f6",
+    "strongColor": "#a3e635",
+    "weakColor": "#9ca3af",
+    "radarColor": "#a3e635",
+    "growingAnimation": true,
+    "contribColors": ["#1f2937", "#365314", "#4d7c0f", "#65a30d", "#a3e635"],
+    "l10n": { "commit": "Commits", "repo": "Repositorios", "review": "Revisiones", "pullreq": "Pull requests", "issue": "Issues", "contrib": "contribuciones" }
+  }
+]
