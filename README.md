@@ -84,11 +84,11 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,py,fastapi,flutter,dart,postgres,mongodb,sqlite,docker,git,java&perline=7" alt="C#, .NET, Angular, TypeScript, Python, FastAPI, Flutter, Dart, PostgreSQL, MongoDB, SQLite, Docker, Git y Java">
 </p>
 
-## 🐍 Mi actividad
+## 📅 Mi actividad
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardolar/eduardolar/output/serpiente-oscura.svg">
-  <img src="https://raw.githubusercontent.com/eduardolar/eduardolar/output/serpiente.svg" alt="Serpiente que recorre mi calendario de contribuciones">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardolar/eduardolar/calendario/calendario-oscuro.svg">
+  <img src="https://raw.githubusercontent.com/eduardolar/eduardolar/calendario/calendario-claro.svg" alt="Mi calendario de contribuciones del último año en 3D, con el total de contribuciones y un resumen de commits, repositorios y pull requests">
 </picture>
 
 <sub>🎓 Técnico Superior en DAM (MEDAC) · Máster en Big Data Engineering (Davante) · Grado en Psicología · 📍 Ciudad Real, España</sub>
