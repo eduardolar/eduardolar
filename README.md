@@ -14,24 +14,24 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/eduardolar/RadarEmpleo"><img src="assets/radarempleo.png" alt="Pantalla Inicio de RadarEmpleo: lo que toca hoy, los próximos días y el resumen de la semana"></a>
+      <h3><a href="https://github.com/eduardolar/RadarEmpleo">RadarEmpleo</a></h3>
+      La app con la que llevo mi búsqueda de empleo: tablero de candidaturas, recordatorios con lo que toca hoy y estadísticas.<br><br>
+      <code>C#</code> <code>ASP.NET Core</code> <code>.NET 10</code> <code>EF Core</code> <code>Angular 22</code> · ~2.100 pruebas
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/eduardolar/SiestaDescanso"><img src="assets/siestadescanso.gif" alt="Siesta y Descanso en funcionamiento: nueva venta, catálogo, stock y proveedores"></a>
       <h3><a href="https://github.com/eduardolar/SiestaDescanso">Siesta y Descanso</a></h3>
       Gestor de stock y pedidos para una tienda de muebles: sigue cada venta desde que se encarga hasta que se entrega.<br><br>
       <code>C#</code> <code>.NET 10</code> <code>WPF</code> <code>EF Core</code> <code>SQLite</code> · ~300 pruebas
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/eduardolar/StickerApp"><img src="assets/stickerapp.gif" alt="StickerApp en funcionamiento: tendencias, búsqueda en vivo y favoritos"></a>
       <h3><a href="https://github.com/eduardolar/StickerApp">StickerApp</a></h3>
       App para buscar, guardar y compartir stickers animados, con modo oscuro y funciones nativas de Android.<br><br>
       <code>Angular 22</code> <code>signals</code> <code>Capacitor 8</code> <code>Vitest</code> · 68 pruebas
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/eduardolar/ConcesionarioSemaforos"><img src="assets/concesionario.gif" alt="Ejecución real de ConcesionarioSemaforos: los clientes cogen y sueltan vehículos"></a>
-      <h3><a href="https://github.com/eduardolar/ConcesionarioSemaforos">ConcesionarioSemaforos</a></h3>
-      Concurrencia en Java: varios clientes, cada uno en su hilo, se reparten unos pocos vehículos con un semáforo.<br><br>
-      <code>Java</code> <code>Semaphore</code> <code>synchronized</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/eduardolar/LeagueOfLegendsApp"><img src="assets/lol.gif" alt="League of Legends · Campeones en funcionamiento: rol, ranking y ficha con build"></a>
@@ -45,7 +45,7 @@ Hago aplicaciones de principio a fin: el back-end con C# y .NET o con Python y F
 ## 💼 Dónde he trabajado
 
 - **Zaitec** (2026, remoto): SaaS multi-tenant con FastAPI y MongoDB, app en Flutter, Stripe y Docker en Render.
-- **Copermática** (2023): Angular y TypeScript, C# con ASP.NET Web API y Entity Framework sobre SQL Server, Scrum y pull requests con revisión de código.
+- **Copermática** (2023): Angular y TypeScript, C# con ASP.NET Web API y Entity Framework sobre SQL Server, metodologías ágiles y pull requests con revisión de código.
 - **Freelance** (2026): AgendaFit, app para un gimnasio en producción. Flutter y Supabase con RLS, más de 350 pruebas.
 
 ## 🔒 Proyectos con código privado
